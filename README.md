@@ -3,9 +3,8 @@ Multi-Model Stock Forecast &amp; Strategy Tracker (ARIMA vs Random Forest + Back
 
 📈 Stock Forecast & Strategy Tracker
 
-A Streamlit-powered web app that forecasts stock prices using ARIMA & Random Forest, detects volatility spikes, and provides next-day predictions.
 
-🔹 Built with Python, Streamlit, and machine learning libraries.
+🔹 Built with Python and machine learning libraries.
 🔹 Visualizes real-world stock data (via Yahoo Finance).
 🔹 Includes model comparison, backtesting, and risk analysis.
 
@@ -18,12 +17,4 @@ A Streamlit-powered web app that forecasts stock prices using ARIMA & Random For
 ✅ Performance Metrics – RMSE & MAE for accuracy comparison
 ✅ Next-Day Prediction – Forecast tomorrow’s closing price
 
-
-📂 Project Structure
-📦 stock-forecast-tracker
- ┣ 📜 stock_prediction.py  # Backend training script
- ┣ 📜 requirements.txt     # Python dependencies
- ┣ 📜 README.md            # Documentation
- ┣ 📂 charts/              # Saved plots (backtests, spikes, etc.)
- ┗ 📜 model_results.csv    # Results summary
 
