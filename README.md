@@ -2,19 +2,29 @@
 
 # 📈 Stock Forecast Tracker & Deep RL Decision Layer
 
-### *An End-to-End Decision Intelligence Framework for NSE Equities*
+### <i>An End-to-End Decision Intelligence Framework for NSE Equities</i>
 
-[[https://img.shields.io/badge/python-3.11+-blue.svg?logo=python&logoColor=white]](https://www.python.org/)
-[[https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white]](https://pytorch.org/)
-[[https://img.shields.io/badge/Gymnasium-v0.29-brightgreen]](https://gymnasium.farama.org/)
-[[https://img.shields.io/badge/Stable--Baselines3-PPO-orange]](https://stable-baselines3.readthedocs.io/)
-[[https://img.shields.io/badge/MLflow-Tracking-0194E2?logo=mlflow&logoColor=white]](https://mlflow.org/)
-[[https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker&logoColor=white]](https://www.docker.com/)
-[[https://img.shields.io/badge/License-MIT-yellow.svg]](https://opensource.org/licenses/MIT)
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3.11+-blue.svg?logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Gymnasium-v0.29-brightgreen" alt="Gymnasium" />
+  <img src="https://img.shields.io/badge/Stable--Baselines3-PPO-orange" alt="Stable-Baselines3" />
+  <img src="https://img.shields.io/badge/MLflow-Tracking-0194E2?logo=mlflow&logoColor=white" alt="MLflow" />
+  <img src="https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License" />
+</p>
 
-**Bridging time-series predictive modeling (ARIMA & ML Regression) with Reinforcement Learning (PPO) to make friction-aware, risk-adjusted capital allocation decisions on Indian equities (NIFTY / NSE).**
+<p>
+  <b>Bridging time-series predictive modeling (ARIMA & ML Regression) with Reinforcement Learning (PPO) to make friction-aware, risk-adjusted capital allocation decisions on Indian equities (NIFTY / NSE).</b>
+</p>
 
-[Overview](#-system-architecture) • [Empirical Results](#-out-of-sample-backtest-results) • [Visualizations](#-forecasting--signal-analytics) • [Regime Stress Testing](#-macro-regime-stress-testing) • [Quickstart](#-quickstart)
+<p>
+  <a href="#-system-architecture">Overview</a> • 
+  <a href="#-out-of-sample-backtest-results">Empirical Results</a> • 
+  <a href="#-forecasting--signal-analytics">Visualizations</a> • 
+  <a href="#-macro-regime-stress-testing">Regime Stress Testing</a> • 
+  <a href="#-quickstart">Quickstart</a>
+</p>
 
 ---
 
